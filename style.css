@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 45px;
+}
+.add-color{
+    color: rgb(225, 67, 67);
+}
+img{
+    width: 100%;
+}
+section{
+    display: flex
+}
+
+
+.footer-background svg{
+    position: absolute;
+    bottom: 0px;
+}
